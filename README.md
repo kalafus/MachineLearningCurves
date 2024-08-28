@@ -16,7 +16,7 @@ Ongoing research ideas, experiment results, and explorations into machine learni
 ## How to Use This Repository
 
 ### For Researchers:
-- You are welcome to explore and build upon the ideas presented in the white papers.
+- You are welcome to explore and build upon the ideas presented in the abstract papers.
 - If you use any of the ideas or code in your academic work, please provide proper attribution (see the Licensing section below).
 
 ### For Developers:
@@ -25,7 +25,7 @@ Ongoing research ideas, experiment results, and explorations into machine learni
 
 ## Contribution Guidelines
 - Contributions are welcome! Please open a pull request or submit an issue if you have suggestions, corrections, or new ideas.
-- If you'd like to contribute new white papers or code, please ensure that the content aligns with the repository’s focus on machine learning research.
+- If you'd like to contribute new abstract papers or code, please ensure that the content aligns with the repository’s focus on machine learning research.
 
 ## Licensing
 
