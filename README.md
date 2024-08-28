@@ -30,7 +30,7 @@ Ongoing research ideas, experiment results, and explorations into machine learni
 ## Licensing
 
 - **Code** is licensed under the **GPLv3 License**: You are free to use, modify, and distribute the code, provided that any derivative works are also open-sourced under the same license.
-- **White Papers and Documentation** are licensed under **CC BY-ND (Creative Commons Attribution-NoDerivs)**: You may share and distribute the papers, but you cannot modify or remix them, and proper attribution must be given.
+- **Abstract Papers and Documentation** are licensed under **CC BY-ND (Creative Commons Attribution-NoDerivs)**: You may share and distribute the papers, but you cannot modify or remix them, and proper attribution must be given.
 
 ## Acknowledgments
 This repository is maintained by James J Kalafus and aims to provide a central hub for ongoing machine learning research.
