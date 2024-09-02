@@ -9,6 +9,7 @@ This section contains well-structured short papers covering different machine le
 
 **Papers include:**
 - **Kalafus Initialization**: A novel approach to improving weight initialization by scaling based on the maximum of input and output sizes.
+- **Novel Theory of the Mechanism of Non-Linearity in Activation Functions: A Comprehensive Theory for Neural Networks**: While the non-linear nature of neural networks is widely recognized as being caused by non-linear activation functions, the precise mechanism by which these functions introduce non-linearity has not been explained. We propose a novel theory that the crucial non-linearity instilled in machine learning arises from their disruption of associativity of tensor operations by activation functions. Also contains a glossary surveying documented activation functions.
 
 ### 2. **Research Notes**
 Ongoing research ideas, experiment results, and explorations into machine learning techniques. These notes document insights as they develop, serving as a log of findings and thoughts.
