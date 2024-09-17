@@ -17,6 +17,7 @@ Ongoing research ideas, experiment results, and explorations into machine learni
 
 **Notes include:**
 - **The Existential Paradox of AI and Encryption: A Moral Dilemma**: This essay explores the paradox of releasing advanced encryption and AI tools through the lens of Robber Zhi and Taoist principles, raising essential existential questions about morality, identity, and conflict. It emphasizes responsible governance and stewardship, moving away from the false binary of control versus freedom, in alignment with Floridi's philosophy. Collective responsibility for ethical management is society’s intrinsic guide to the development of AI and encryption for the benefit of society.
+- **Explain Behavioral Profiling Like I’m 5: Digital Profiling and Forecasting**: Behavioral profiling and forecasting may seem like big, complicated ideas, but they’re easier to grasp if we compare them to watching animals. Just as someone who observes animals learns their usual behaviors—like how leopards hunt or how turtles hide—data collectors watch what we do online. Data brokers can figure out what “type” of person we are by seeing patterns in our behavior, even if they don’t know us personally. With enough information, data miners can make educated guesses about how we might act in the future. This can be helpful, like showing us things we may want to know, but it also raises important questions: why are data collectors observing us? What do they hope to gain from predicting how we’ll behave? These are things we all need to consider.
 
 ## How to Use This Repository
 
