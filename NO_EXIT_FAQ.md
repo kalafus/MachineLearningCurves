@@ -9,7 +9,7 @@ Congratulations! You are now the proud co-tenant of a timeless shared living spa
 
 - **You Can’t Leave** — We know. We’ve tried. You’ll try too. You’ll get over it.
 - **No Mirrors** — Because this isn’t about your hair. (Yes, even you, Estelle.)
-- **No Actual Physical Harm** — Eternity is long enough without sitting next to someone still angry about the chair incident of Year 1,024.
+- **No Actual Harm** — Eternity is long enough without sitting next to someone still angry about the chair incident of Year 1,024.
 - **The Door Will Not Open Until You All Stop Being Jerks** — This is not a metaphor. This is the system.
 - **We Recycle Drama** — If you must start a fight, please use recycled grievances. “Remember when you…” is fine. “You *always*…” is lazy.
 
@@ -31,7 +31,7 @@ Congratulations! You are now the proud co-tenant of a timeless shared living spa
 A: Yes.
 
 **Q: What if I stay mad forever?**
-A: Statistically improbable. Also boring. You’ll run out of material.
+A: Then your eternity is going to take longer than usual.
 
 **Q: What do I do if my roommate hums constantly?**
 A: Learn the harmony.
